@@ -1,0 +1,13 @@
+material Gazebo/MyMaterial
+{
+    technique
+    {
+        pass
+        {
+            texture_unit
+            {
+                texture picture.png
+            }
+        }
+    }
+}
